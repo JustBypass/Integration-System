@@ -1,0 +1,9 @@
+[submodule "pms-backend"]
+	path = pms-backend
+	url = https://github.com/Fantazer01/pms-backend.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/Gmakk/TestingSystem.git
+[submodule "TestingSystem"]
+	path = TestingSystem
+	url = https://github.com/Gmakk/TestingSystem.git
